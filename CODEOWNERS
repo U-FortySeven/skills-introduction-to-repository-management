@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @U-FortySeven
+/src/backend/database.py      @U-FortySeven
+/src/backend/routers/auth.py  @U-FortySeven
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @U-FortySeven
